@@ -4,6 +4,9 @@ This repository contains the materials and documentation for my Project 1 in CMP
 ## Repositories created and their corresponding projects are as follows:
 
 Repository Name: CMPG-323-Overview-35651865,
+Used for: Module overview plan and documentation
+
+Repository Name: CMPG-323-Project-1-35651865
 Used for: Project 1
 
 Repository Name: CMPG-323-Project-2-35651865,
