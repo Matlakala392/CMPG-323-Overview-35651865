@@ -8,6 +8,7 @@ Used for: Module overview plan and documentation.
 
 Repository Name: CMPG-323-Project-1,
 Used for: Project 1.
+Link: https://github.com/Matlakala392/CMPG-323-Project-1
 
 Repository Name: CMPG-323-Project-2,
 Used for: Project 2.
