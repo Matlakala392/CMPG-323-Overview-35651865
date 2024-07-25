@@ -16,6 +16,7 @@ Link: https://github.com/Matlakala392/CMPG-323-Project-2
 
 Repository Name: CMPG-323-Project-3,
 Used for: Project 3.
+Link: https://github.com/Matlakala392/CMPG-323-Project-3
 
 Repository Name: CMPG-323-Project-4,
 Used for: Project 4.
