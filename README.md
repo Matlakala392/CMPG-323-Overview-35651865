@@ -1,6 +1,8 @@
 # CMPG-323-Overview-35651865
 This repository contains the materials and documentation for my Project 1 in CMPG323.
 
+(This Readme file is a copy of the original under project 1 class room, copied here for my personal 
+convenience) 
 
 ## Repositories created and their corresponding projects are as follows:
 
