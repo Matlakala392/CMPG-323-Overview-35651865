@@ -6,11 +6,7 @@ This repository contains the materials and documentation for my Project 1 in CMP
 
 Repository Name: CMPG-323-Overview-35651865,
 Used for: Project 1.
-Link
-
-Repository Name: CMPG-323-Project-1,
-Used for: Project 1.
-Link: https://github.com/Matlakala392/CMPG-323-Project-1
+Link: https://github.com/Matlakala392/CMPG-323-Overview-35651865
 
 Repository Name: CMPG-323-Project-2,
 Used for: Project 2.
