@@ -12,7 +12,7 @@ Link: https://github.com/Matlakala392/CMPG-323-Overview-35651865
 
 Repository Name: CMPG-323-Project-2,
 Used for: Project 2.
-Link: https://github.com/Matlakala392/CMPG-323-Project-2
+https://github.com/NWU-CMPG323-2024/project-2-Matlakala392
 
 Repository Name: CMPG-323-Project-3,
 Used for: Project 3.
