@@ -16,7 +16,7 @@ https://github.com/NWU-CMPG323-2024/project-2-Matlakala392
 
 Repository Name: CMPG-323-Project-3,
 Used for: Project 3.
-Link: https://github.com/Matlakala392/CMPG-323-Project-3
+Link: https://github.com/NWU-CMPG323-2024/project-3-Matlakala392
 
 Repository Name: CMPG-323-Project-4,
 Used for: Project 4.
