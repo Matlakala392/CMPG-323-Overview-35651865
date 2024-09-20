@@ -30,7 +30,7 @@ Link: https://github.com/NWU-CMPG323-2024/project-5-Matlakala392
 
 ## Link to Documentation Created:
 
-file:///C:/Users/DEN%20WHT/Desktop/FINAL_SEMESTER/CMPG323/Project%201/Lean%20Technical%20Documentation%20Template.pdf
+
 
 ## Branching Strategy to be Used in Each Project:
 
